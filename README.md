@@ -1,6 +1,6 @@
-<img width="1024" height="1024" alt="zox" src="https://github.com/user-attachments/assets/27dbd95c-c888-4e2f-8e38-33d4ab4ff078" />
-# Zox Prog    <img width="1024" height="1024" alt="zox" src="https://github.com/user-attachments/assets/add0fa62-44de-444b-ba24-17385c370e23" />
-ramming Language v1 — Official Documentation
+**<img width="500" height="500" alt="zox (2)" src="https://github.com/user-attachments/assets/9db94059-b55c-468d-b8f5-0d94b7ddebb0" />
+
+# Zox Programming Language v1 — Official Documentation
 
 ## Overview
 Zox is a modern, lightweight, and expressive programming language designed for **speed, concurrency, and simplicity**. It features a **shell-style syntax**, asynchronous tasks, and built-in data pipelines, making it ideal for scripting, automation, and scalable applications.
