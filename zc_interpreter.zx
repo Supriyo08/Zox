@@ -1,0 +1,23 @@
+#!/usr/bin/env python3
+"""Zox Prototype Interpreter (zc_interpreter.zx)
+A tiny, runnable prototype written in Python.
+Supports:
+- let VAR = EXPR
+- say EXPR
+- func name(args) { ... }
+- calling functions
+- simple for loops over range and lists
+This is intentionally small — it's a scaffold to build on.
+"""
+import sys, os
+from src.cli.args import run_file, run_repl
+
+def main(argv):
+    if len(argv) == 1:
+        # start REPL
+        run_repl()
+    else:
+        run_file(argv[1])
+
+if __name__ == '__main__':
+    main(sys.argv)

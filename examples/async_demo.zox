@@ -1,0 +1,6 @@
+# Async demo (conceptual)
+task download(url) {
+    # net.get not implemented in prototype
+    say "downloading " + url
+}
+run download("https://example.com")

@@ -1,0 +1,5 @@
+# Hello Zox example
+let x = 5
+let y = 10
+say "Hello, Zox!"
+say "x + y = " + (x + y)

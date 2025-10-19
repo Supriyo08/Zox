@@ -1,0 +1,3 @@
+# runtime tests
+let a = 1
+say "a=" + a
