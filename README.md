@@ -1,4 +1,4 @@
-**<img width="500" height="500" alt="zox (2)" src="https://github.com/user-attachments/assets/9db94059-b55c-468d-b8f5-0d94b7ddebb0" />
+<img width="700" height="500" alt="zox (2)" src="https://github.com/user-attachments/assets/9db94059-b55c-468d-b8f5-0d94b7ddebb0" />
 
 # Zox Programming Language v1 — Official Documentation
 
